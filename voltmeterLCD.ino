@@ -1,4 +1,4 @@
-/* This is a program to read voltage and display the voltage on an LCD */
+/* Voltmeter displayed on an LCD */
 
 
 #include "LiquidCrystal.h"  // LCD library for commands
